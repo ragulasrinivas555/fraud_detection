@@ -7,4 +7,3 @@ sum(a,b):
     c=a+b
     return a
 print('added new function sum which is not correct')
-print('hello')
